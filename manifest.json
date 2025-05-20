@@ -8,5 +8,8 @@
             "matches": ["https://*.meteofrance.fr/"],
             "js": ["redirect.js"]
         }
-    ]
+    ],
+    "icons": {
+        "48": "icon.png"
+    }
 }
